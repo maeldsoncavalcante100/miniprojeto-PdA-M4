@@ -1,0 +1,19 @@
+{
+  "name": "miniprojeto-pda-m4",
+  "version": "1.0.0",
+  "description": "API de mangas - Miniprojeto M4 do curso Programadores do amanhã - PdA",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maeldson Cavalcante",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
